@@ -5,15 +5,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="F:/project/QuartzTest/pom.xml" />
-        <option value="F:/download/SpringBootUnity/socket/pom.xml" />
-        <option value="F:/download/SpringBootUnity/rabbitmq/pom.xml" />
-        <option value="F:/download/SpringBootUnity/redis/pom.xml" />
-        <option value="F:/download/SpringBootUnity/core/pom.xml" />
-        <option value="F:/download/SpringBootUnity/pom.xml" />
-        <option value="F:/download/SpringBootUnity/async/pom.xml" />
-        <option value="F:/download/SpringBootUnity/crawler/pom.xml" />
-        <option value="F:/download/SpringBootUnity/scheduled/pom.xml" />
       </list>
     </option>
   </component>
